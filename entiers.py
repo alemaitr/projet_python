@@ -1,3 +1,6 @@
+#Auteur : AUrélie Lemaitre
+
+
 from re import I
 
 
